@@ -4,10 +4,12 @@
 
 Download yt-dlp.exe to your PC.
 
-In CMD.EXE type yt-dlp [OPTION] [URL].
+In CMD.EXE type yt-dlp OPTION URL.
 
 If you need help,type yt-dlp -help.
 
-If you are in China Mainland，use [OPTION] --proxy socks5://IP Address please.
+If you are in China Mainland，use OPTION --proxy socks5://IP Address please.
 
 If you need download the YxxTxBx video,you also need FFmpeg. 
+
+How to use FFmpeg?come here [https://www.baidu,com]
