@@ -4,7 +4,7 @@
 
 Download [yt-dlp.exe](https://github.com/yt-dlp/yt-dlp/releases) to your PC.
 
-type yt-dlp OPTION URL In CMD.EXE(This command must be executed in your yt-dlp folder).
+Type yt-dlp OPTION URL In CMD.EXE(This command must be executed in your yt-dlp folder).
 
 If you need help,type yt-dlp -help.
 
