@@ -12,4 +12,4 @@ If you are in China Mainland，use OPTION --proxy socks5://IP Address please.
 
 If you need download the YxxTxBx video,you also need FFmpeg. 
 
-How to use FFmpeg? [come here](https://www.baidu.com)
+How to use FFmpeg? [click here]()
